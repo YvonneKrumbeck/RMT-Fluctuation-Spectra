@@ -19,7 +19,7 @@ A few minutes to install MATLAB, Python and Mathematica
 
 ## Expected output:
 
-Reproductions of figures included in the submission
+Reproductions of figures included in the submission of _Fluctuation spectra of large random dynamical systems reveal hidden structure in ecological networks,_ https://arxiv.org/abs/2011.05140
 
 
 
